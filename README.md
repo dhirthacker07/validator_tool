@@ -1,0 +1,1 @@
+# validator_tool_with_pdf_intelligence
