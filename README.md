@@ -1,4 +1,4 @@
-# Validator_tool
+# Validator tool
 
 ## Project Overview
 The project is designed to build a **Model Evaluation Tool** using Streamlit to evaluate test cases from the GAIA dataset against the OpenAI model. The tool allows users to select specific test cases, submit them to the model, and compare the results. It supports step modifications for incorrect responses and includes comprehensive feedback recording and visualization.
@@ -77,7 +77,7 @@ The main test case data is retrieved from the GAIA benchmark dataset, while supp
    ```
 
 ## Deployment
-The Streamlit application is deployed on [Streamlit Cloud](https://streamlit.io/). You can access the live application using the following link: [**Live Streamlit App**]((https://validatorpy-tool.streamlit.app/)).
+The Streamlit application is deployed on [Streamlit Cloud](https://streamlit.io/). 
 
 ## Documentation
 - **CodeLabs documentation**: [CodeLabs]([https://huggingface.co/datasets/gaia-benchmark/GAIA](https://codelabs-preview.appspot.com/?file_id=19YlgUH63yH2j6AQJpKsnpPfrSXpMxl3QcXehr_eJwpY#0)).
